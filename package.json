@@ -4,7 +4,8 @@
   "description": "REST API with NODE, TYPESCRIPT, EXPRESS, POSTGRES (TYPEORM)",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kegriz/BE/issues"
   },
-  "homepage": "https://github.com/kegriz/BE#readme"
+  "homepage": "https://github.com/kegriz/BE#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
 }
