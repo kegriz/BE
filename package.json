@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/kegriz/BE#readme",
   "dependencies": {
+    "@types/express": "^4.17.6",
+    "@types/node": "^13.13.5",
+    "express": "^4.17.1",
     "typescript": "^3.8.3"
   }
 }
