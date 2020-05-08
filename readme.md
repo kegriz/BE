@@ -13,11 +13,11 @@ Run the server in production mode:
 $ npm run prod
 ```
 
-Compile project:
+Build project:
 ```
-$ npm run tsc
+$ npm run build
 ```
 Run compiled project:
 ```
-$ node build/app.js
+$ node dist/index.js
 ```
