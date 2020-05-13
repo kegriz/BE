@@ -6,7 +6,7 @@ To install this dependency use:
 
 Start the development environment:
 ```
-$ npm run dev
+$ npm start
 ```
 Run the server in production mode:
 ```
