@@ -1,23 +1,17 @@
 # About
-REST API with NODE, TYPESCRIPT, EXPRESS, POSTGRES (TYPEORM)
+REST API with NODE, TYPESCRIPT, EXPRESS
+
+TODO: POSTGRES (TYPEORM)
+
+deployed on heroku: https://sleepy-ocean-65438.herokuapp.com/
 
 ## Quick Start
-To install this dependency use:
-
-Start the development environment:
+To install dependencies:
 ```
-$ npm start
-```
-Run the server in production mode:
-```
-$ npm run prod
+$ npm install
 ```
 
-Build project:
+Start the development environment (localhost:5000):
 ```
-$ npm run build
-```
-Run compiled project:
-```
-$ node dist/index.js
+$ npm run dev
 ```
